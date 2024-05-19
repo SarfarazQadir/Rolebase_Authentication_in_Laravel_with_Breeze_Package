@@ -1,3 +1,9 @@
+![image](https://github.com/SarfarazQadir/Rolebase_Authentication_in_Laravel_with_Breeze_Package/assets/144503703/bdd806b7-b84c-4cef-a412-285a48a87660)
+![image](https://github.com/SarfarazQadir/Rolebase_Authentication_in_Laravel_with_Breeze_Package/assets/144503703/3fb606e5-724e-49ce-95be-002ae9ecd059)
+![image](https://github.com/SarfarazQadir/Rolebase_Authentication_in_Laravel_with_Breeze_Package/assets/144503703/123557f9-fb79-4daa-9e91-340e5e4e22f6)
+![image](https://github.com/SarfarazQadir/Rolebase_Authentication_in_Laravel_with_Breeze_Package/assets/144503703/f391fea7-f1e9-45f1-826a-5e4ba93a386e)
+![image](https://github.com/SarfarazQadir/Rolebase_Authentication_in_Laravel_with_Breeze_Package/assets/144503703/958f65b4-418f-432c-90d8-f60da471257f)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
