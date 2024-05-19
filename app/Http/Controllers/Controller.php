@@ -10,7 +10,7 @@ abstract class Controller
             return view('admin.admindashboard');
         }
         else{
-            return view('auth.register');
+            return view('User.userdashboard');
         }
         return view('home');
     }
