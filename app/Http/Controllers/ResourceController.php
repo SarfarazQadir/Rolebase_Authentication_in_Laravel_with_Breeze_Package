@@ -19,7 +19,7 @@ class ResourceController extends Controller
      */
     public function create()
     {
-        //
+         return view("admin.add"); 
     }
 
     /**
@@ -33,9 +33,9 @@ class ResourceController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(string $id)
+    public function show()
     {
-        //
+        return  view("admin.show");
     }
 
     /**

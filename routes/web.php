@@ -19,5 +19,7 @@ Route::middleware('auth')->group(function () {
 
 Route::get('/home', [App\Http\Controllers\Controller::class, 'index'])->name('home');
 Route::get('/adminhome', [App\Http\Controllers\ResourceController::class, 'index'])->name('adminhome');
+Route::get('/addproduct', [App\Http\Controllers\ResourceController::class, 'create'])->name('addproduct');
+Route::get('/showproduct', [App\Http\Controllers\ResourceController::class, 'show'])->name('showproduct');
 
 require __DIR__.'/auth.php';
